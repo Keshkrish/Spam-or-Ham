@@ -2,8 +2,15 @@
 Pattern Recognition and Machine Learning finals project
 
 The data set used was enron spam data set.
-Can't be uploaded due to space constraints :( but availabe in kaggle :)
-Zip file attached contains the total solution, script attached is the main script used to run the program
 
-Create a file containing all the emails that has to be predicted in a folder named as emails and name the emails as email1.txt, email2.txt and so on. This folder has to be stored in the same path as the spam_or_ham.py script. Run the spam_or_ham.py script to make predictions for these emails.
 
+Zip file attached contains the script spam_or_ham.py and the trained model.
+
+
+***Download the zipl file and extract it.
+
+Create a new folder named emails in the same location. Put all the emails that has to predicted in this folder and name them as email1.txt, email2.txt and so on.
+Run the spam_or_ham.py script and see the results!!!
+***
+Call the function trainer if you wish to train the model again or if you want to change the dataset.
+Use the function predict to make predictions.
